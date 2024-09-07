@@ -4,3 +4,4 @@
 `python3 ./Netchr.py`
 或
 `python3 ./controler.py`
+he
